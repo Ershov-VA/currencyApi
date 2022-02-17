@@ -1,3 +1,5 @@
+   Для запуска выполнить команду docker-composer up
+
 1. Реализовать REST API со следующим функционалом
 
 + 1.1. Получение курса валют на стороннем API (RUB / EUR / USD / JPY). (например: https://currencyfreaks.com/)
