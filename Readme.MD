@@ -41,3 +41,4 @@ GET     http://localhost:3001/rate/date/2022-02-13 - получение курс
         http://localhost:3001/      - переадресация на http://localhost:3001/rate
 
 
+Для доступа необходимо отправить POST запрос на http://localhost:3001/auth с параметрами { "password": "admin", "username":"admin"}. Полученный token использовать для всех последующих запросах
